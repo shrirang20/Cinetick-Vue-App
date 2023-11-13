@@ -61,7 +61,7 @@
         </div>
     </div>
 
-    <iframe width="1600" height="1200" src="https://lookerstudio.google.com/embed/reporting/91bdf505-5ace-4cc1-b2bd-69f43ff5e089/page/txrhD" frameborder="0" style="border:0" allowfullscreen></iframe>
+    
     <div>
         <div class="container">
             <h1 class="custom-h1">All Movies</h1>
